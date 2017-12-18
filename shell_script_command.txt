@@ -1,0 +1,1 @@
+sh /appl/skprccm/what_if_code/mdo_one_click_script.sh 2>&1 |tee /appl/skprccm/what_if_code/logs/`date +%Y-%m-%d`.txt
